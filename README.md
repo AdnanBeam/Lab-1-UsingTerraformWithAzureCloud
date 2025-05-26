@@ -79,5 +79,3 @@ In this lab, you will learn to use Terraform to build resources in Azure Cloud i
 ## Lab 1.8 - Creating a Local Module
 - TBD
 
-## Lab 1.9 - Creating a Local Module
-- TBD
